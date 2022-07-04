@@ -21,11 +21,11 @@ Make sure you have installed all of the following prerequisites on your local ma
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/nale16/prieds-test.git
+   git clone https://github.com/nale16/crud-users.git
    ```
 2. Move to repo root directory
    ```sh
-   cd pride-test
+   cd crud-users
    ```
 3. Install dependecies using npm or yarn
    ```sh
